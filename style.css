@@ -39,6 +39,7 @@
 .welcome {
     display: flex;
     background: #1F2937;
+    height: 300px;
     
 }
 
@@ -50,8 +51,8 @@
 
 }
 
-.welcometwo, 
-.welcomethree {
+.welcometwo
+{
     flex: 2;
 }
 
@@ -74,8 +75,6 @@
     font-size: 48px;
     font-weight: 800;
     height: 100px;
-    padding: 0px;
-    vertical-align: bottom;
 }
 
 .welcometwotwo {
@@ -92,3 +91,65 @@
     color: whitesmoke;
     font-weight: bold;
 }
+
+.welcomethree {
+
+    flex: 2;
+    
+
+}
+
+img {
+    
+    max-width: 100%;
+    margin-left: auto;
+    margin-top: 50px;
+
+}
+
+.somerandom {
+    font-size: 36px; 
+    font-weight: 900;
+    color: #1F2937; 
+    text-align: center;
+}
+
+ .random1{   
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+ }
+
+
+.cubes {
+  
+  
+        width: 120px;
+        height: 120px;
+        border: 2px solid #1E88E5;
+        background: white;
+        border-radius: 10px;
+
+      }
+
+.random2{   
+   
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+    
+     }   
+
+
+.subtext {
+  
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    color: #1F2937; 
+
+  }
