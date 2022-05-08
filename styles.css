@@ -1,0 +1,68 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    
+    text-align: center; 
+    display: flex;
+  }
+  
+
+  .header div {
+    background: #1F2937;
+    color: white;
+    height: 100px;
+    flex: 1; 
+  }
+
+.two {
+    text-align: left;
+    size: 24px;
+    color: #F9FAF8;
+    align-items: center;
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    
+}  
+  
+.three {
+    display: flex;
+}
+
+.linkone {
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    
+    
+    
+}
+.linktwo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+}
+.linkthree {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.welcome {}
+
+.random {}
+
+.quote {
+
+}
+
+.action {
+
+}
+
+.copyright {}
